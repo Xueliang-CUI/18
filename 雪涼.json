@@ -25,12 +25,12 @@
       }
     },
      {
-            "key": "天天",
-            "name": "天天┃高峰期用不了就点我换源或者搜索",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 2,
-            "ext": "7lj763gg0939791h1l3888jig44gi291li"
+       "key": "天天",
+       "name": "天天",
+        "type": 3,
+        "api": "csp_TTian",
+         "playerType": 2,
+         "ext": "7lj763gg0939791h1l3888jig44gi291li"
         },
         {
             "key": "拾光",
@@ -389,19 +389,6 @@
       "timeout": 15
     },
     {
-      "key": "纸条",
-      "name": "🗞纸条┃搜索",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-    },
-    {
       "key": "盘Se",
       "name": "🙀盘Se┃搜索",
       "type": 3,
@@ -465,19 +452,6 @@
       "ext": {
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://www.misou.fun"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "夸搜",
-      "name": "🚢夸搜┃搜索",
-      "type": 3,
-      "api": "csp_Qkso",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
       },
       "timeout": 15
     },
