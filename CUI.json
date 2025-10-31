@@ -109,12 +109,15 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
-      "key": "移动",
-      "name": "💡移动｜影视",
+      "key": "csp_xlys",
+      "name": "修罗┃无搜索",
       "type": 3,
-      "api": "csp_YDjisu",
+      "api": "csp_Bdys01",
       "searchable": 1,
-      "quickSearch": 1
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
     {
       "key": "热播影视",
