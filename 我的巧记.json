@@ -94,11 +94,11 @@
     },
     {
       "key": "天天",
-            "name": "雪涼,
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 1,
-            "ext": "7lj763gg09397919456493i0h44j8681highi4"
+      "name": "雪涼,
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "7lj763gg09397919456493i0h44j8681highi4"
     },
     {
       "key": "荐片",
@@ -1886,4 +1886,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
