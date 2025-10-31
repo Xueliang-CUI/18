@@ -101,11 +101,12 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
-      "key": "荐片",
-      "name": "💡荐片｜影视",
-      "api": "csp_Jianpian",
+      "key": "追剧",
+      "name": "追剧┃App",
       "type": 3,
-      "ext": "https://api.ztcgi.com"
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
       "key": "移动",
@@ -1886,6 +1887,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
