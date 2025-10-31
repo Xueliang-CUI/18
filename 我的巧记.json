@@ -109,12 +109,12 @@
       "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
-      "key": "移动",
-      "name": "💡移动｜影视",
+      "key": "主角",
+      "name": "主角┃APP",
       "type": 3,
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "quickSearch": 1
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
     {
       "key": "热播影视",
@@ -1887,6 +1887,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
