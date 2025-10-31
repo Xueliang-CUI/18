@@ -113,41 +113,41 @@
       },
       "timeout": 25
     },
-   {
-            "key": "拾光",
-            "name": "拾光┃秒播APP",
-            "type": 3,
-            "api": "csp_Hmys",
-            "playerType": 1,
-            "ext": "https://dy.jmzp.net.cn"
-        },
-        {
-            "key": "csp_xlys",
-            "name": "修罗┃无搜索",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "playerType": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
-        },
-        {
-            "key": "追剧",
-            "name": "追剧┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 2,
-            "ext": "7lj763gg0939791h1l2681i6g94li291li"
-        },
-        {
-            "key": "剧评",
-            "name": "剧评┃App",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 1,
-            "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-        },
+    {
+      "key": "拾光",
+      "name": "拾光┃秒播APP",
+      "type": 3,
+      "api": "csp_Hmys",
+      "playerType": 1,
+      "ext": "https://dy.jmzp.net.cn"
+     },
+     {
+      "key": "csp_xlys",
+      "name": "修罗┃无搜索",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
+     },
+     {
+      "key": "追剧",
+      "name": "追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "7lj763gg0939791h1l2681i6g94li291li"
+     },
+     {
+      "key": "剧评",
+      "name": "剧评┃App",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+     },
     {
       "key": "厂长",
       "name": "🌸厂长┃直连",
