@@ -93,12 +93,12 @@
       }
     },
     {
-      "key": "天天",
-      "name": "天天",
+      "key": "剧评",
+      "name": "剧评┃App",
       "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "荐片",
@@ -1886,6 +1886,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
