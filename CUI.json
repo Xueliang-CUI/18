@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "XUE",
+      "name": "学亮",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -101,11 +101,12 @@
        "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
-      "key": "荐片",
-      "name": "💡荐片｜影视",
-      "api": "csp_Jianpian",
+     "key": "剧评",
+      "name": "剧评┃App",
       "type": 3,
-      "ext": "https://api.ztcgi.com"
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "移动",
