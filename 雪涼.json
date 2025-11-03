@@ -51,15 +51,7 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
-      {
-        "key": "拾光",
-        "name": "拾光┃秒播APP",
-        "type": 3,
-        "api": "csp_Hmys",
-        "playerType": 1,
-        "ext": "https://dy.jmzp.net.cn"
-      },    
+    },    
     {
       "key": "csp_woog",
       "name": "🐲玩歌｜4K弹幕",
