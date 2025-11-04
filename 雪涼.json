@@ -92,15 +92,12 @@
       }
     },
     {
-      "key": "夸快",
-      "name": "❤夸快｜4K弹幕",
+      "key": "追剧",
+      "name": "追剧┃App",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
       "key": "荐片",
