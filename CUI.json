@@ -24,14 +24,15 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "豆瓣1",
-      "name": "📢公告❤更新10.19❤",
+     "key": "csp_xlys",
+      "name": "修罗┃无搜索",
       "type": 3,
-      "api": "csp_Notice",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/ca89297988221a7e6dd9d8106dc102ab.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-      "ext": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/公告?b=tv"
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
     {
       "key": "config",
