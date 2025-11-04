@@ -329,18 +329,6 @@
             "filterable": 0,
             "ext": "6666666666666666"
         }
-    ],
-    "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
         {
             "name": "巧技",
             "type": 1,
@@ -399,50 +387,6 @@
                 }
             }
         },
-        {
-            "name": "巧技三",
-            "type": 1,
-            "url": "https://zy.qiaoji8.com/xiafan.php?url=",
-            "ext": {
-                "flag": [
-                    "QD4K",
-                    "iyf",
-                    "duanju",
-                    "gzcj",
-                    "GTV",
-                    "GZYS",
-                    "weggz",
-                    "Ace"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        }
-    ],
-    "flags": [
-        "youku",
-        "qq",
-        "QQ",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "pptv",
-        "PPTV",
-        "mgtv",
-        "wasu",
-        "bilibili",
-        "m1905",
-        "seven",
-        "m78",
-        "mtv",
-        "sjs",
-        "dbs",
-        "yds",
-        "HNB",
-        "JL4K"
-    ],
     {
       "key": "荐片",
       "name": "💡荐片｜影视",
