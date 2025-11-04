@@ -16,11 +16,12 @@
   ],
   "sites": [
     {
-      "key": "豆瓣2",
-      "name": "XUELIANG",
+      "key": "天天",
+      "name": "雪涼",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "巧技二",
