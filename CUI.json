@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_woog",
-      "name": "🐲玩歌｜4K弹幕",
+      "name": "玩歌｜4K弹幕",
       "type": 3,
       "changeable": "0",
       "api": "csp_Duopan",
@@ -76,7 +76,7 @@
     },
     {
       "key": "欧哥",
-      "name": "🐲装歌｜4K弹幕",
+      "name": "装歌｜4K弹幕",
       "type": 3,
       "changeable": "0",
       "api": "csp_Duopan",
