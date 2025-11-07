@@ -2,7 +2,7 @@
   "wallpaper": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/t/",
   "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
   "spider": "./jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
-  "warningText": "tv提示:CUI",
+  "warningText": "tv提示:\CUI",
   "lives": [
     {
       "name": "tv",
@@ -17,18 +17,18 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "CUI",
+      "name": "📢免费仅限测试使用，请勿演示贩卖购买，谨防上当受骗！",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "巧技二",
-       "name": "巧技┃仅搜索",
+      "name": "巧技┃仅搜索",
       "type": 3,
-       "api": "csp_qiao2",
-       "playerType": 2,
-       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
       "key": "config",
