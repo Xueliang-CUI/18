@@ -101,7 +101,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/og.json"
+      "ext": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/m/lib/og.json"
     },
     {
       "key": "荐片",
