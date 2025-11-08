@@ -24,7 +24,7 @@
     },
     {
        "key": "天天",
-       "name": "天天",
+       "name": "🐲天天",
        "type": 3,
        "api": "csp_TTian",
        "playerType": 2,
@@ -93,7 +93,7 @@
     },
     {
       "key": "csp_xlys",
-      "name": "修罗┃无搜索",
+      "name": "💡修罗┃无搜索",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
@@ -116,7 +116,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-       ext": "7lj763gg0939791h1l2681i6g94li291li"
+      "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
       "key": "热播影视",
