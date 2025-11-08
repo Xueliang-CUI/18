@@ -52,24 +52,15 @@
       }
     },
     {
-      "key": "csp_woog",
-      "name": "🐲玩歌｜4K弹幕",
+      "key": "csp_xlys",
+      "name": "修罗┃无搜索",
       "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1aa78a7afa85d5ace98c1c57e6123f2c.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0",
-      "ext": {
-        "site_urls": [
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org"
-        ],
-        "url_key": "woog",
-        "threadinfo": {
-          "chunksize": 276,
-          "threads": 16
-        }
-      }
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
     {
       "key": "欧哥",
