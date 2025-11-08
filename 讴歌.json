@@ -480,19 +480,13 @@
       "filterable": 1
     },
     {
-      "key": "稀饭动漫",
-      "name": "🤣稀饭｜动漫",
+      "key": "巧技三",
+      "name": "🤣巧技三┃QD4K",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "./lib/getapp.txt",
-        "dataKey": "1yZ2Spn9krnzVKoC",
-        "dataIv": "1yZ2Spn9krnzVKoC",
-        "deviceId": "",
-        "version": ""
-      }
+      "api": "csp_Qiji",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
     },
     {
       "key": "派对动漫",
