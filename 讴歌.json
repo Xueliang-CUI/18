@@ -521,58 +521,62 @@
       "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
     },
     {
-      "key": "木偶",
-      "name": "❤木偶｜4K弹幕",
+      "key": "AI2",
+      "name": "❤AI2┃仅搜索",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_AI",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/mogg.json"
+      "filterable": 0,
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354l2k91k151k138612g78g5j858j3l18l295l9l857lhjj6l6k57k8hkigh373ih6jh327804i43l3l9j6gjk57l7938h64i28509kh7656771l1j55j67jk8kljj5h478l457485g2l40j537l4h67ih345g420686258i648jh8k4l6ij828lk496588370j9ijj5h69591i411g0i38l10jg4j8l45j3jj87h78kj324hg71hj92i20l8326gk9464360kk4257l6j98h07j91ji35k7kg45i"
+   },
+   {
+      "key": "AI3",
+      "name": "❤AI3┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
     },
     {
-      "key": "蜡笔",
-      "name": "❤蜡笔｜4K弹幕",
+      "key": "Lib",
+      "name": "❤Lib┃直连",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/lb.json"
+      "filterable": 0,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
     },
     {
-      "key": "小米",
-      "name": "❤小米｜4K弹幕",
+      "key": "360_spider",
+      "name": "❤360┃解析",
+      "api": "csp_SP360",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/xm.json"
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": ""
     },
     {
-      "key": "多多",
-      "name": "❤多多｜4K弹幕",
+      "key": "NoSearch_csp_BBB",
+      "name": "❤哔哩哔哩",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Bili",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/yyds.json"
-    },
-    {
-      "key": "玩偶",
-      "name": "❤玩偶｜4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/wogg.json"
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j"
     },
     {
       "key": "糖果",
