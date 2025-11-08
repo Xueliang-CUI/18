@@ -286,19 +286,13 @@
       "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
     },
     {
-      "key": "蓝鹰",
-      "name": "👑蓝鹰｜弹幕",
+      "key": "lanyingys",
+      "name": "👑橘子4K┃APP",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
+      "api": "csp_Muou",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
     },
     {
       "key": "莱米",
