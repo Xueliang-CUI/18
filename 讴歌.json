@@ -360,20 +360,13 @@
       }
     },
     {
-      "key": "影视",
-      "name": "👑影视丨弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
+       "key": "主角",
+       "name": "👑主角┃APP",
+       "type": 3,
+       "api": "csp_Muou",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
     {
       "key": "小猪",
