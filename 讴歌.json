@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "LIANG",
+      "name": "👑LIANG",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -410,20 +410,13 @@
       }
     },
     {
-      "key": "九零",
-      "name": "👑九零丨弹幕",
+      "key": "星河",
+      "name": "👑星河┃App",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
-        "site": "",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
+       "api": "csp_Xdai",
+      "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i7942463j9j9jgg568780llhk844hi59920376g4402k6j3314g3g30876g828i65g6982j25h89gk3j63kl6i44h6569j1g6lii93gj66jg1"
     },
     {
       "key": "New6v",
