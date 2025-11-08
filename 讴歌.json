@@ -111,12 +111,12 @@
       "ext": "https://api.ztcgi.com"
     },
     {
-      "key": "移动",
-      "name": "💡移动｜影视",
+      "key": "追剧",
+      "name": "💡追剧┃App",
       "type": 3,
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "quickSearch": 1
+      "api": "csp_TTian",
+      "playerType": 2,
+       ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
       "key": "热播影视",
