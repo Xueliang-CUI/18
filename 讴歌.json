@@ -152,13 +152,12 @@
       "filterable": 1
     },
     {
-      "key": "低端",
-      "name": "💡低端｜影视",
+      "key": "剧评",
+      "name": "剧评┃App",
       "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_Jpys",
+      "playerType": 1,
+       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "苹果影视",
