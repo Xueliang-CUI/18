@@ -588,31 +588,13 @@
        "ext": "7lj763gg402i794252729j81hl4gjh87g7hlij0lj6j8337942134gl0h7165707028353h48h1i9088321kh6j9g4gh40hkg97i7l07khk1jhgk25jj3lg462lk5710l5gljkg9gl787168ij416457i5lg1h7i22hkg27276h69k"
     },
     {
-       "key": "巧技",
-      "name": "❤巧技",
-       "type": 1,
-        "url": "https://zy.qiaoji8.com/neibu.php?url=",
-        "ext": {
-           "flag": [
-               "qq",
-                "腾讯",
-                "qiyi",
-                 "爱奇艺",
-                 "奇艺",
-                 "youku",
-                 "优酷",
-                 "sohu",
-                  "搜狐",
-                 "letv",
-                 "乐视",
-                 "mgtv",
-                 "芒果",
-                 "tnmb",
-                  "seven",
-                  "bilibili"
-             ],
-             "header": {
-                "User-Agent": "okhttp/4.9.1"
+      "key": "鲨鱼",
+      "name": "❤鲨鱼┃无搜索",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i794240208hi3g05l8181hihhjl53988272355j5107k0jh0l4g362jh008g7h97g91g3210l959lk5jk00l6i856520hl493k3lk019l2ljh73li1i19"
     },
     {
       "key": "夸克盘搜",
