@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "👑LIANG",
+      "name": "👑",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
