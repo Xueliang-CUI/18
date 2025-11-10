@@ -1,13 +1,13 @@
 {
   "wallpaper": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/t/",
   "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-  "spider": "./jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
-  "warningText": "tv提示:LIANG",
+  "spider": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/m/jar;md5;b8ccf68972d12e3983a93b35b4024345",
+  "warningText": "tv提示:CUI",
   "lives": [
     {
       "name": "tv",
       "type": 0,
-      "url": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/tv/?ou=407",
+      "url": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/tv/?ou=450",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
       "playerType": 2,
@@ -16,19 +16,19 @@
   ],
   "sites": [
     {
-      "key": "天天",
-      "name": "雪涼",
+      "key": "豆瓣2",
+      "name": "👑CUI👑",
       "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {
-      "key": "热播",
-      "name": "热播┃App",
+       "key": "天天",
+       "name": "🐲天天",
        "type": 3,
        "api": "csp_TTian",
-       "playerType": 1,
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
        "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "key": "csp_woog",
-      "name": "玩歌｜4K弹幕",
+      "name": "🐲玩歌｜4K弹幕",
       "type": 3,
       "changeable": "0",
       "api": "csp_Duopan",
@@ -66,14 +66,14 @@
         ],
         "url_key": "woog",
         "threadinfo": {
-          "chunksize": 244,
+          "chunksize": 276,
           "threads": 16
         }
       }
     },
     {
       "key": "欧哥",
-      "name": "装歌｜4K弹幕",
+      "name": "🐲装歌｜4K弹幕",
       "type": 3,
       "changeable": "0",
       "api": "csp_Duopan",
@@ -86,53 +86,62 @@
         ],
         "url_key": "欧哥",
         "threadinfo": {
-          "chunksize": 212,
+          "chunksize": 241,
           "threads": 16
         }
       }
     },
     {
-      "key": "追剧",
-      "name": "追剧┃App",
-       "type": 3,
-       "api": "csp_TTian",
-       "playerType": 2,
-       "ext": "7lj763gg0939791h1l2681i6g94li291li"
-    },
-    {
-     "key": "剧评",
-      "name": "剧评┃App",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-    },
-    {
       "key": "csp_xlys",
-      "name": "修罗┃无搜索",
+      "name": "💡修罗┃无搜索",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
       "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
     {
-      "key": "巧技二",
-       "name": "巧技┃仅搜索",
-       "type": 3,
-       "api": "csp_qiao2",
-       "playerType": 2,
-       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+      "key": "荐片",
+      "name": "💡荐片｜影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "ext": "https://api.ztcgi.com"
     },
     {
-     "key": "巧技三",
-      "name": "巧技三┃QD4K",
+      "key": "追剧",
+      "name": "💡追剧┃App",
       "type": 3,
-       "api": "csp_AppYsV2",
-       "playerType": 2,
-       "ext": "7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"
+      "api": "csp_TTian",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939791h1l2681i6g94li291li"
+    },
+    {
+      "key": "热播影视",
+      "name": "💡热播｜影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "浪酷影视",
+      "name": "💡浪酷｜影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
     },
     {
       "key": "瓜子影视",
@@ -144,13 +153,12 @@
       "filterable": 1
     },
     {
-      "key": "低端",
-      "name": "💡低端｜影视",
+      "key": "剧评",
+      "name": "💡剧评┃App",
       "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_Jpys",
+      "playerType": 1,
+       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "苹果影视",
@@ -232,18 +240,13 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
-      "key": "雄鹰",
-      "name": "👑雄鹰｜弹幕",
+      "key": "巧技二",
+      "name": "💡巧技┃仅搜索",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://122.228.193.2:9988",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
       "key": "萝卜",
@@ -274,50 +277,31 @@
       }
     },
     {
-      "key": "咖啡",
-      "name": "👑咖啡｜弹幕",
+      "key": "yunyun",
+      "name": "👑云云┃无搜索",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "dataIv": "37kj83zs1q16jk6t",
-        "deviceId": "",
-        "version": "101",
-        "ua": ""
-      }
+      "api": "csp_Qiji",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
     },
     {
-      "key": "蓝鹰",
-      "name": "👑蓝鹰｜弹幕",
+      "key": "lanyingys",
+      "name": "👑橘子4K┃APP",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
+      "api": "csp_Muou",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
     },
     {
-      "key": "莱米",
-      "name": "👑莱米｜弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "./lib/laimi.txt",
-        "dataKey": "ce032244d093b3e2",
-        "dataIv": "ce032244d093b3e2",
-        "deviceId": "",
-        "version": ""
-      }
+     "key": "huomaoys",
+     "name": "👑火猫┃App",
+     "type": 3,
+     "api": "csp_Xdai",
+     "playerType": 2,
+     "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+     "ext": "7lj763gg402i79424930jkj8lk488382hjhjj851829j24354k104ighgi16580i4j9504k1ih03ihj03901kij4gkg919k4l2367707h2k19gg4728721g03ll9"
     },
     {
       "key": "蔬菜",
@@ -352,20 +336,13 @@
       }
     },
     {
-      "key": "星星",
-      "name": "👑星星丨弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://starani.qcanime.xyz",
-        "site": "",
-        "dataKey": "123456789StarAni",
-        "dataIv": "123456789StarAni",
-        "deviceId": "",
-        "version": "",
-        "ua": "okhttp/3.10.0BDYS/109.0.0.8"
-      }
+       "key": "yizys",
+       "name": "👑驿站┃无搜索",
+       "type": 3,
+       "api": "csp_Qiji",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+       "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
     },
     {
       "key": "若雪",
@@ -383,36 +360,22 @@
       }
     },
     {
-      "key": "影视",
-      "name": "👑影视丨弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "小猪",
-      "name": "👑小猪丨弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/tengxunyun.txt",
-        "dataKey": "seb5tq9mykp2w9ry",
-        "dataIv": "seb5tq9mykp2w9ry",
-        "deviceId": "",
-        "version": "",
-        "ua": "okhttp/3.10.0"
-      }
+       "key": "主角",
+       "name": "👑主角┃APP",
+       "type": 3,
+       "api": "csp_Muou",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
+   },
+   {
+       "key": "永夜",
+       "name": "👑永夜┃App",
+       "type": 3,
+       "api": "csp_Xdai",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+       "ext": "7lj763gg402i794248398hi3g05j9i9hhig7j94k818g326i41491kljk31l5k00559751hk81479j872853hk8ilhh31lk2k4616457ggg6j3k83gg46il2649h7j71l7l9ii87g2513821g55k1j0493li7k5643hil46002h2k8h6jih135l2384h"
     },
     {
       "key": "八天",
@@ -447,20 +410,13 @@
       }
     },
     {
-      "key": "九零",
-      "name": "👑九零丨弹幕",
+      "key": "星河",
+      "name": "👑星河┃App",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
-        "site": "",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
+       "api": "csp_Xdai",
+      "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i7942463j9j9jgg568780llhk844hi59920376g4402k6j3314g3g30876g828i65g6982j25h89gk3j63kl6i44h6569j1g6lii93gj66jg1"
     },
     {
       "key": "New6v",
@@ -524,33 +480,22 @@
       "filterable": 1
     },
     {
-      "key": "稀饭动漫",
-      "name": "🤣稀饭｜动漫",
+      "key": "巧技三",
+      "name": "🤣巧技三┃QD4K",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "./lib/getapp.txt",
-        "dataKey": "1yZ2Spn9krnzVKoC",
-        "dataIv": "1yZ2Spn9krnzVKoC",
-        "deviceId": "",
-        "version": ""
-      }
+      "api": "csp_Qiji",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
     },
     {
-      "key": "派对动漫",
-      "name": "🤣派对｜动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://qjappcms.acg.party",
-        "dataKey": "AmtMYFCJDPoTlK7z",
-        "dataIv": "AmtMYFCJDPoTlK7z",
-        "deviceId": "",
-        "version": ""
-      }
+       "key": "优质",
+       "name": "🤣优质┃App",
+       "type": 3,
+       "api": "csp_Xdai",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+       "ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
     },
     {
       "key": "咕咕动漫",
@@ -567,82 +512,80 @@
       }
     },
     {
-      "key": "多多动漫",
-      "name": "🤣多多｜动漫",
+      "key": "客星",
+      "name": "🤣客星┃App",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://app.cf4k.xyz/1.txt",
-        "dataKey": "qqqqqqqqqqqqqqqq",
-        "dataIv": "qqqqqqqqqqqqqqqq",
-        "deviceId": "",
-        "version": ""
-      }
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
     },
     {
-      "key": "木偶",
-      "name": "❤木偶｜4K弹幕",
+      "key": "AI2",
+      "name": "❤AI2┃仅搜索",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_AI",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354l2k91k151k138612g78g5j858j3l18l295l9l857lhjj6l6k57k8hkigh373ih6jh327804i43l3l9j6gjk57l7938h64i28509kh7656771l1j55j67jk8kljj5h478l457485g2l40j537l4h67ih345g420686258i648jh8k4l6ij828lk496588370j9ijj5h69591i411g0i38l10jg4j8l45j3jj87h78kj324hg71hj92i20l8326gk9464360kk4257l6j98h07j91ji35k7kg45i"
+   },
+   {
+      "key": "AI3",
+      "name": "❤AI3┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
+    },
+    {
+      "key": "Lib",
+      "name": "❤Lib┃直连",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
+    },
+    {
+      "key": "360_spider",
+      "name": "❤360┃解析",
+      "api": "csp_SP360",
+      "type": 3,
       "filterable": 1,
-      "ext": "./lib/mogg.json"
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": ""
     },
     {
-      "key": "蜡笔",
-      "name": "❤蜡笔｜4K弹幕",
+      "key": "NoSearch_csp_BBB",
+      "name": "❤哔哩哔哩",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Bili",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/lb.json"
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+      "ext": "7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j"
     },
     {
-      "key": "小米",
-      "name": "❤小米｜4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/xm.json"
-    },
-    {
-      "key": "多多",
-      "name": "❤多多｜4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/yyds.json"
-    },
-    {
-      "key": "玩偶",
-      "name": "❤玩偶｜4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./lib/wogg.json"
-    },
-    {
-      "key": "糖果",
-      "name": "❤糖果｜搜索",
-      "type": 3,
-      "api": "csp_TGSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key": "雨滴",
+       "name": "雨滴┃App",
+       "type": 3,
+       "api": "csp_Xdai",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+       "ext": "7lj763gg402i794252729j81hl4gjh87g7hlij0lj6j8337942134gl0h7165707028353h48h1i9088321kh6j9g4gh40hkg97i7l07khk1jhgk25jj3lg462lk5710l5gljkg9gl787168ij416457i5lg1h7i22hkg27276h69k"
     },
     {
       "key": "音海",
