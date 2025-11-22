@@ -357,13 +357,13 @@
       }
     },
     {
-       "key": "主角",
-       "name": "👑主角┃APP",
-       "type": 3,
-       "api": "csp_Muou",
-       "playerType": 2,
-       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
-       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
+      "key": "大豆",
+      "name": "👑大豆┃影视",
+      "type": 3,
+      "quickSearch": 0,
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
    },
    {
        "key": "永夜",
