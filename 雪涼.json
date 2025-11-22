@@ -1,7 +1,7 @@
 {
   "wallpaper": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/t/",
   "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
-  "spider": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/m/jar;md5;b8ccf68972d12e3983a93b35b4024345",
+  "spider": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/m/jar;md5;d10e4f18cab989e0daadc3a1f027f83f",
   "warningText": "tv提示:CUI",
   "lives": [
     {
@@ -580,7 +580,7 @@
     },
     {
       "key": "雨滴",
-       "name": "雨滴┃App",
+       "name": "❤雨滴┃App",
        "type": 3,
        "api": "csp_Xdai",
        "playerType": 2,
@@ -588,13 +588,13 @@
        "ext": "7lj763gg402i794252729j81hl4gjh87g7hlij0lj6j8337942134gl0h7165707028353h48h1i9088321kh6j9g4gh40hkg97i7l07khk1jhgk25jj3lg462lk5710l5gljkg9gl787168ij416457i5lg1h7i22hkg27276h69k"
     },
     {
-      "key": "音海",
-      "name": "❤音海｜搜索",
-      "type": 3,
-      "api": "csp_YinHai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+       "key": "蝴蝶",
+       "name": "❤蝴蝶┃App",
+       "type": 3,
+       "api": "csp_Xdai",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix250711.jar",
+       "ext": "7lj763gg093979590464ji85lk0jj9i5hill9j0795jj6k761j451lhjkj0l4l1223974kh3994197i56g4lkkj2g4gl1ik3ki58754jk0h3j8l867j46lg03kll1k44lkkh91l2g2"
     },
     {
       "key": "夸克盘搜",
