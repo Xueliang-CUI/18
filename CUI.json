@@ -850,21 +850,14 @@
       }
     },
     {
-      "key": "哔️软件",
-      "name": "🅰️软件┃哔哩",
+      "key": "开心2",
+      "name": "🧿开心┃影视",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/软件教程.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "jar": "https://codeberg.org/Xueliang/CUI/raw/branch/main/1114.jpg",
+      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
     },
     {
       "key": "哔哩学堂",
