@@ -860,72 +860,45 @@
       "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
     },
     {
-      "key": "哔哩学堂",
-      "name": "🅰学堂┃哔哩",
+      "key": "AppQi1",
+      "name": "🧿爱盈┃小米",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
+      "api": "csp_AppQi",
+      "changeable": "1",
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/学堂教育.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "filterable": 1,
+      "jar": "https://codeberg.org/Xueliang/CUI/raw/branch/main/1114.jpg",
+      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
     },
     {
-      "key": "哔哩少儿",
-      "name": "🅰少儿┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
+      "key": "鲸鱼",
+      "name": "🧿鲸鱼┃小米",
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/少儿合集.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "searchable": 1,
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://codeberg.org/Xueliang/CUI/raw/branch/main/1114.jpg",
+      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
     },
     {
-      "key": "️小学",
-      "name": "🅰️小学┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
+      "key": "仓鼠2",
+      "name": "🧿仓鼠┃小米",
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/小学课堂.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "searchable": 1,
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://codeberg.org/Xueliang/CUI/raw/branch/main/1114.jpg",
+      "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"
     },
     {
-      "key": "️初中",
-      "name": "🅰️初中┃哔哩",
+      "key": "布蕾",
+      "name": "🧿布蕾┃影视",
+      "quickSearch": 1,
+      "searchable": 1,
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "./lib/初中课堂.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "api": "csp_AppQi",
+      "jar": "https://codeberg.org/Xueliang/CUI/raw/branch/main/1114.jpg",
+      "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
     },
     {
       "key": "️高中",
