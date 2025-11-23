@@ -591,16 +591,10 @@
       "ext": "llmvPPU1h/vqmWtANHI55wjkhfSXUVRucMnPpIfDe+l3hpqpWlt3meXji00/Qg7Yb84SQ3EzXzZZ0jeFYWPcvEHOBaptd0aJSFS2ac8gZBJ6TodggbUva1hHidOGZOWx"
     },
     {
-      "key": "夸克盘搜",
-      "name": "❤夸父｜搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "quark"
-      }
+       "key": "Dygang",
+       "name": "电影港[边下边播]",
+       "type": 3,
+       "api": "csp_Dygang"
     },
     {
       "key": "UC盘搜",
