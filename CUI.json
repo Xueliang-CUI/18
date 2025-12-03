@@ -352,14 +352,21 @@
       "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
     },
     {
-      "key": "大豆",
-      "name": "👑大豆┃影视",
+      "key": "csp_Bili",
+      "name": "🏵️哔哩┃哔哩",
       "type": 3,
+      "api": "csp_Bili",
       "quickSearch": 0,
       "searchable": 1,
-      "api": "csp_AppQi",
       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/1114.jar",
-      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
+      "ext": {
+        "json": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/DEMO/lib/balibali.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
    },
    {
        "key": "永夜",
