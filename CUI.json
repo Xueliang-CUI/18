@@ -352,23 +352,6 @@
       "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
     },
     {
-      "key": "csp_Bili",
-      "name": "👑哔哩┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "quickSearch": 0,
-      "searchable": 1,
-      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/1114.jar",
-      "ext": {
-        "json": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/DEMO/lib/balibali.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-   },
-   {
        "key": "永夜",
        "name": "👑永夜┃App",
        "type": 3,
