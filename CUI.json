@@ -358,7 +358,7 @@
       "api": "csp_Bili",
       "quickSearch": 0,
       "searchable": 1,
-      
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/1114.jar",
       "ext": {
         "json": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/DEMO/lib/balibali.json",
         "cookie": ""
