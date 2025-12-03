@@ -1,0 +1,3 @@
+http://127.0.0.1:9978/file/XYQTVBox/live.txt
+https://gitee.com/1716213253/tvbox/raw/master/libs/js/drpy2.min.js
+https://gitee.com/1716213253/tvbox/raw/master/libs/js/斗鱼直播.js
