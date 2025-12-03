@@ -353,12 +353,11 @@
     },
     {
       "key": "csp_Bili",
-      "name": "👑哔哩┃哔哩",
+      "name": "🏵️哔哩┃哔哩",
       "type": 3,
       "api": "csp_Bili",
       "quickSearch": 0,
       "searchable": 1,
-      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/1114.jar",
       "ext": {
         "json": "./lib/balibali.json",
         "cookie": ""
