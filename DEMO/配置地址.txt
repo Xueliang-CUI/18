@@ -1,0 +1,3 @@
+clan://localhost/tvbox/DEMO/DEMO.json
+
+https://codeberg.org/Xueliang/CUI/raw/branch/main/1114.jpg
