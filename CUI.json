@@ -885,7 +885,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/tvbox/lib/HCCX.jar",
-      "ext": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/tvbox/lib/%E9%9D%9E%E5%87%A1%E8%B5%84%E6%BA%90%E7%BD%91.json"
+      "ext": "./lib/非凡资源网.json"
     }
     {
       "key": "仓鼠2",
