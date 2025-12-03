@@ -878,15 +878,16 @@
       "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
     },
     {
-      "key": "鲸鱼",
-      "name": "🧿鲸鱼┃小米",
-      "quickSearch": 0,
-      "searchable": 1,
+      "key": "csp_非凡",
+      "name": "🧿┃非凡┃资源",
       "type": 3,
-      "api": "csp_AppQi",
-      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/1114.jar",
-      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
-    },
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/tvbox/lib/HCCX.jar",
+      "ext": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/tvbox/lib/%E9%9D%9E%E5%87%A1%E8%B5%84%E6%BA%90%E7%BD%91.json"
+    }
     {
       "key": "仓鼠2",
       "name": "🧿仓鼠┃小米",
