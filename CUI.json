@@ -685,7 +685,7 @@
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345",
       "api": "csp_XBPQ",
-      "ext": "./lib/养生堂.json",
+      "ext": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/m/lib/%E5%85%BB%E7%94%9F%E5%A0%82.json",
       "style": {
         "type": "rect",
         "ratio": 1.597
