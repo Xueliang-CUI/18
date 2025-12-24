@@ -32,21 +32,22 @@
        "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "config",
-      "name": "🐲歌配置｜中心",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e ",
-      "api": "csp_Config",
-      "searchable": 0
-    },
-    {
       "key": "巧技二",
       "name": "🐲巧技┃仅搜索",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix251212.jar",
-       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+    },
+    {
+       "key": "巧技五",
+       "name": "🐲巧技五┃仅搜索",
+       "type": 3,
+       "api": "csp_qiao2",
+       "playerType": 2,
+       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/fix251212.jar",
+       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
       "key": "csp_woog",
