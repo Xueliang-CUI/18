@@ -102,11 +102,11 @@
       "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
     {
-      "key": "荐片",
-      "name": "💡荐片｜影视",
-      "api": "csp_Jianpian",
+      "key": "肥猫",
+      "name": "💡┃肥猫┃APP",
       "type": 3,
-      "ext": "https://api.ztcgi.com"
+      "api": "csp_AppGet",
+      "ext": "http://103.236.61.192:8006|123456789abcdefg"
     },
     {
       "key": "追剧",
