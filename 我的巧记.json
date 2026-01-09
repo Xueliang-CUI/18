@@ -1,5 +1,5 @@
 {
-    "spider": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
+    "spider": "http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036",
     "wallpaper": "https://bing.img.run/uhd.php",
     "lives": [
         {
@@ -17,7 +17,7 @@
     "sites": [
         {
             "key": "天天",
-            "name": "雪涼",
+            "name": "👑👑👑CUI",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 2,
@@ -43,14 +43,6 @@
             "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
         },
         {
-            "key": "追剧",
-            "name": "追剧┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 2,
-            "ext": "7lj763gg0939791h1l2681i6g94li291li"
-        },
-        {
             "key": "剧评",
             "name": "剧评┃App",
             "type": 3,
@@ -64,7 +56,15 @@
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
-            "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+        },
+        {
+            "key": "巧技五",
+            "name": "巧技五┃仅搜索",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
         },
         {
             "key": "yunyun",
@@ -78,25 +78,25 @@
             "key": "lanyingys",
             "name": "橘子4K┃APP",
             "type": 3,
-            "api": "csp_Muou",
+            "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
+            "ext": "7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
         },
         {
             "key": "kafeiys",
             "name": "狂风┃APP",
             "type": 3,
-            "api": "csp_Xdai",
+            "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942422493i0g712948hk8k7i75hj59g6l73010l0lkhkj0h0g5i48i208k1il0gihj36j48k9j0g4gj04h6g233200hh2k593g471j368g73ill1i5ig9g790"
+            "ext": "7lj763gg402i7942522l99jhh90ljii5g1l09i13i39g2l6i514l56l1li1k5107159113h6945h8g91351kgkijl5l315g8l3656756kjk699gj689125k773g94i16ghg596l5l022202ki910690ii5kh4i6724k0g83g70k09hgkj3jj7hl431480l3i3197"
         },
         {
             "key": "huomaoys",
             "name": "火猫┃App",
             "type": 3,
-            "api": "csp_Xdai",
+            "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i79424930jkj8lk488382hjhjj851829j24354k104ighgi16580i4j9504k1ih03ihj03901kij4gkg919k4l2367707h2k19gg4728721g03ll9"
+            "ext": "7lj763gg402i7942553k9hj9k1128h95g3l8920j828g332i08154lg0h6134l040hj849gl8i4k9881381lh48ig2g41il4k131270lk1h6j7l723863llg60l91544k9k693l1g7722664ii126k"
         },
         {
             "key": "yizys",
@@ -104,7 +104,7 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
+            "ext": "7lj763gg402i794240208hi3g05l8181higgi609i7i73l224k141jg1lh405k0g49i60kh6ih53i6ji6g01k885g4lk4lk2l432240jk5k1igg97kj421g03lll"
         },
         {
             "key": "主角",
@@ -116,11 +116,11 @@
         },
         {
             "key": "柚子",
-            "name": "柚子┃无搜索",
+            "name": "柚子┃APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 2,
-            "ext": "7lj763gg402i7942463j9j9jh7498j9gl6k6i952i1i66j6l46590lklll457g593li27lkkhj0gh0j56j48kkj2kglg4gi6g744207ihj9793jl77j368g03kh11k10g8"
+            "ext": "7lj763gg402i7942553393i9g44g8j82k2g9jg54ih863325555955g5g1595i1741i70lk1i00hji87320gh6j1gkkg0jh4g8697h06ghh3jhl5339731hj7hh5595ilkkkjhh8k261236896432i458hkk4i756kh5k3773jl2j8gj958228h178060g6h72j974g8k1"
         },
         {
             "key": "永夜",
@@ -128,7 +128,7 @@
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 2,
-            "ext": "7lj763gg402i794248398hi3g05j9i9hhig7j94k818g326i41491kljk31l5k00559751hk81479j872853hk8ilhh31lk2k4616457ggg6j3k83gg46il2649h7j71l7l9ii87g2513821g55k1j0493li7k5643hil46002h2k8h6jih135l2384h"
+            "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
         },
         {
             "key": "趣看",
@@ -136,15 +136,15 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942522k849kg4499i9hl1k5ik48i38l292l1l4l1klgl41255091i8313k2ik478h8j751kh28kh9gj56l3k874684ll3h7j9k83l9034li7lhi5g45k8k3jhhkk760276g8h5h295i9jk7597177g3kk773hh59kl8"
+            "ext": "7lj763gg0939795l007hi482k508i2i0g0k69h089lj36579051707k0li150k1g0gil50gk9342i193620lg49lk5l91gh2k4712j53ljh9jhgk31ji2lkg73lk1j12"
         },
         {
             "key": "星河",
             "name": "星河┃App",
             "type": 3,
-            "api": "csp_Xdai",
+            "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942463j9j9jgg568780llhk844hi59920376g4402k6j3314g3g30876g828i65g6982j25h89gk3j63kl6i44h6569j1g6lii93gj66jg1"
+            "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
         },
         {
             "key": "时常",
@@ -152,23 +152,23 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942423k8hi1h1498h87k1hi9h0l9ljj69771i4k08k0h4145543139753h0825g9i91751ih18gklk916k4k32k7751k9lj9gh2329j29kl7ih94i52lhk2i5h7k563732gii1669038kk45i6760h0kl6932l5jgljj7j87jl43k03423j31"
+            "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj1l"
         },
         {
             "key": "巧技三",
             "name": "巧技三┃QD4K",
             "type": 3,
-            "api": "csp_Qiji",
+            "api": "csp_qiao2",
             "playerType": 2,
-            "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
+            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312gl815890ig2l05g9"
         },
         {
             "key": "优质",
             "name": "优质┃App",
             "type": 3,
-            "api": "csp_Xdai",
+            "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
+            "ext": "7lj763gg402i7942433293i0g9458881hig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9kj11kjl92k6046l0gkj8l630892glj67g61h48g3kjiigkg0263k6h955430429ill43307gk8k0602hh09lh0j6jh7h"
         },
         {
             "key": "客星",
@@ -182,9 +182,9 @@
             "key": "蝴蝶",
             "name": "蝴蝶┃App",
             "type": 3,
-            "api": "csp_Xdai",
+            "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg093979590464ji85lk0jj9i5hill9j0795jj6k761j451lhjkj0l4l1223974kh3994197i56g4lkkj2g4gl1ik3ki58754jk0h3j8l867j46lg03kll1k44lkkh91l2g2"
+            "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9677gg"
         },
         {
             "key": "柠檬",
@@ -203,7 +203,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "playerType": 2,
-            "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354l2k91k151k138612g78g5j858j3l18l295l9l857lhjj6l6k57k8hkigh373ih6jh327804i43l3l9j6gjk57l7938h64i28509kh7656771l1j55j67jk8kljj5h478l457485g2l40j537l4h67ih345g420686258i648jh8k4l6ij828lk496588370j9ijj5h69591i411g0i38l10jg4j8l45j3jj87h78kj324hg71hj92i20l8326gk9464360kk4257l6j98h07j91ji35k7kg45i"
+            "ext": "7lj763gg402i79425725929jg94l9884l3k6i952i1i63j315h0l0hlhk9584h1i148054h39j1j858h3l52g1gkl9k611khli613h0hggk28hh4118i33l760hg5k00j4i382l3g6397223jl75355hi4g313266gk7gk2767i7jkhi898k1kg46g341g7h2k9074gllj18k007i702541920h953j5j110279543l1784hgl7404j0l7587k163641565665ki03j79kh61i609j0728hg6g17lk1gji3127l6523jl3565868gk1j0j"
         },
         {
             "key": "AI3",
