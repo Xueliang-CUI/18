@@ -119,15 +119,17 @@
       "ext": "7lj763gg0939791h1l2681i6g94li291li"
     },
     {
-      "key": "热播影视",
-      "name": "💡热播｜影视",
+      "key": "csp_FeiMaoUC",
+      "name": "💡┃闪电┃优汐",
       "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "api": "csp_Duopan",
+      "filterable": 1,
       "ext": {
-        "url": "http://v.rbotv.cn"
+        "site_urls": [
+          "https://shandian.blog/",
+          "https://sd.sduc.site"
+        ],
+        "url_key": "FeiMaoUC"
       }
     },
     {
