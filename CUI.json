@@ -357,8 +357,11 @@
       "quickSearch": 0,
       "searchable": 1,
       "jar": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.jar",
-      "ext": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/0075389dca9afadd4614e9713765ff17.txt",
-      "style": {
+      "ext": {
+        "json": "https://raw.githubusercontent.com/Xueliang-CUI/18/refs/heads/main/0075389dca9afadd4614e9713765ff17.txt",
+        "cookie": ""
+      },
+       "style": {
         "type": "rect",
         "ratio": 1.333
       }
