@@ -161,13 +161,11 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
-      "key": "苹果影视",
-      "name": "💡苹果｜影视",
+      "key": "肥猫",
+      "name": "🐼┃肥猫┃APP",
       "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_AppGet",
+      "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE"
     },
     {
       "key": "爱看机器人",
@@ -300,19 +298,10 @@
     },
     {
       "key": "蔬菜",
-      "name": "👑蔬菜｜弹幕",
+      "name": "🫛┃蔬菜┃APP",
       "type": 3,
-      "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": {
-        "url": "http://huohu.yihn.cc",
-        "site": "",
-        "dataKey": "huohushipingetap",
-        "dataIv": "huohushipingetap",
-        "deviceId": "",
-        "version": "140",
-        "ua": ""
-      }
+      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
     },
     {
       "key": "五八",
